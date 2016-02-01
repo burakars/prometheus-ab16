@@ -7,7 +7,8 @@ title: Proje Ekibi
 
 ##BURAK ARSLAN
 25YAS AYDIN
-Ekip üyesi hakkında kısa bilgi.
+BEŞİKTAŞ-CARSI
+
 
 <p>
 <a href="" target="_blank"><i class="fa fa-github fa-2x"></i></a>
