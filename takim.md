@@ -16,7 +16,7 @@ BEŞİKTAŞ-CARSI
 
 
 <a href="https://twitter.com/Burak_ARS" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-
+<p>
 
 
 
