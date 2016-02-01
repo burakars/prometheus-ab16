@@ -5,8 +5,8 @@ title: Proje Ekibi
 
 (soyadı sırasına göre)
 
-##Ekip Üyesi 1
-BURAK ARSLAN
+##BURAK ARSLAN
+25YAS AYDIN
 Ekip üyesi hakkında kısa bilgi.
 
 <p>
