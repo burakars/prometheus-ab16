@@ -16,7 +16,7 @@ BEŞİKTAŞ-CARSI
 
 
 <a href="https://twitter.com/Burak_ARS" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-<p>
+</p>
 
 
 
@@ -24,7 +24,10 @@ BEŞİKTAŞ-CARSI
 
 ##Ekip Üyesi 2
 
-              Ekip üyesi hakkında kısa bilgi.
+             
+
+
+			 Ekip üyesi hakkında kısa bilgi.
 
 <p>
 <a href="" target="_blank"><i class="fa fa-github fa-2x"></i></a>
