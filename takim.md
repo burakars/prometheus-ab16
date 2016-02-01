@@ -11,7 +11,7 @@ Ekip üyesi hakkında kısa bilgi.
 
 <p>
 <a href="" target="_blank"><i class="fa fa-github fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+<a href="https://tr.linkedin.com/in/burak-arslan-b074aa112" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
 <!-- 
 <a href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
 -->
