@@ -6,7 +6,7 @@ title: Proje Ekibi
 (soyadı sırasına göre)
 
 ##Ekip Üyesi 1
-
+BURAK ARSLAN
 Ekip üyesi hakkında kısa bilgi.
 
 <p>
