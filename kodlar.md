@@ -15,7 +15,7 @@ title: Proje
 *adresinden, Marka Tescillerinin Yıllara Göre Dağılımı isimli veri seti indirildi.Markalar ismiyle Excel Çalışma Kitabı formatında Yıllar değişkeni, şehir isimleri ve yıllara göre bulunan Toplam değerler olarak düzeltildi, kaydedildi ve aşağıdaki kodlar kullanılarak R-Studio’ ya aktarıldı. *
 
 ### 2.Histogram
-
+*Yıllara göre Toplam tescil sayısının nasıl bir değişime uğradığı histogram grafiği ile incelenmiştir. *
 ![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a2.jpg)
 
 #### 3. Açıklayıcı İstatistikler
@@ -23,26 +23,17 @@ title: Proje
 
 ![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a3.jpg)
 
-*Yıllara göre Toplam tescil sayısının nasıl bir değişime uğradığı histogram grafiği ile incelenmiştir. *
 
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a4.jpg)
 
 
 
 *Buna göre 1995’ten 2015’ e gidildikçe tescil sayısında artış görülmüştür.*
 
-##### 3. Açıklayıcı İstatistikler
-*Beş büyük şehir için açıklayıcı istatistiklere hesaplanmıştır(Tablo 3.1). Sırasıyla en küçük, en büyük, ortalama ve standart sapma değerleri tabloda verilmiştir. Tüm şehirlerin 1995-2015 yılları arasındaki toplam tescil sayısı gösterilmiştir(Tablo 3.2).*
 
 
 
 
-*Tablo 3.1*
-
-
-
-
-
-*Tablo 3.2*
 
 
 
@@ -52,7 +43,7 @@ title: Proje
 
 
 
-
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a1.jpg)
 
 
 
@@ -64,7 +55,7 @@ title: Proje
 *Buradaki amaç yıllara göre değişen toplam değerleri ile veri setinde yer almayan yıllar için bir toplam değeri tahminlemektir. Tüm tablolar Excel ile düzenlenmiştir. 
 
 
-
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a5.jpg)
 
 
 
@@ -76,13 +67,13 @@ title: Proje
 *Bu çıktıya göre model sabiti olan β_0 -6566561’dır ve bir birimlik yıllar değişkenindeki artışın tahmin edilen Y ̂ üzerinde〖  β〗_1=3290 kadar bir artışa neden olduğu görülür.   *
 
 
-
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a6.jpg)
 
 
 *ANOVA tablosuna göre p-value değeri alpha=0.05 ten oldukça küçüktür. Bu durumda ‘Model anlamlı değildir.’ H_0hipotezi reddedilir. Modelin %95 güven ile istatistiksel olarak anlamlı ve kullanıma uygun olduğu ve Yıllar bağımsız değişkeni katsayısının anlamlı olduğu çıkarımında bulunulur. *
 
 
-
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a7.jpg)
 
 
 
@@ -96,12 +87,12 @@ title: Proje
 
 
 *Çıktıda sırasıyla β_0, Yıllar değişkenin katsayısı ve İstanbul değişkenin katsayısı görülmektedir.*
-
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a8.jpg)
 *ANOVA daki p-value değeri 0.05’ten küçük olması nedeniyle bu kurulan denklemin de anlamlı olduğu söylenir. Yıllar ve İSTANBUL bağımsız değişkenleri model için anlamlıdır.*
 
 
 
-
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a9.jpg)
 
 
 
