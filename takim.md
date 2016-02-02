@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Proje Ekibi
+title: PROMETHEUS-AB16
 ---
 
-(soyadı sırasına göre)
+
 
 ##BURAK ARSLAN
 DOKUZ EYLÜL ÜNİVERSİTESİ FEN FAKÜLTESİ İSTATİSTİK BÖLÜMÜ  
