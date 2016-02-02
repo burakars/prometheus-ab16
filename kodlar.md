@@ -28,4 +28,4 @@ lojistikcv<- train(price~lotsize+stories,  data=evveri,
 
 [TPE](http://www.tpe.gov.tr/TurkPatentEnstitusu/statistics/)		
 
-![AB2016](C:\Users\burak\Documents\prometheus-ab16/logo.png)		 
+![AB2016](http://ab2016.adu.edu.tr/webfolders/AB_1a.jpg/logo.png)		 
