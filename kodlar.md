@@ -15,8 +15,8 @@ title: Proje
 *adresinden, Marka Tescillerinin Yıllara Göre Dağılımı isimli veri seti indirildi.Markalar ismiyle Excel Çalışma Kitabı formatında Yıllar değişkeni, şehir isimleri ve yıllara göre bulunan Toplam değerler olarak düzeltildi, kaydedildi ve aşağıdaki kodlar kullanılarak R-Studio’ ya aktarıldı. *
 
 ### 2.Histogram
-http://burakars.github.io/prometheus-ab16/kodlar/a2/img.jpg
-![Tablo 2.1](gorseller/a2.jpg)
+
+![Tablo 2.1](C:/Users/burak/Documents/prometheus-ab16/gorseller/a2.jpg)
 
 #### 3. Açıklayıcı İstatistikler
 *Beş büyük şehir için açıklayıcı istatistiklere hesaplanmıştır(Tablo 3.1). Sırasıyla en küçük, en büyük, ortalama ve standart sapma değerleri tabloda verilmiştir. Tüm şehirlerin 1995-2015 yılları arasındaki toplam tescil sayısı gösterilmiştir(Tablo 3.2).*
