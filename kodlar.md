@@ -21,6 +21,7 @@ title: Proje
 #### 3. Açıklayıcı İstatistikler
 *Beş büyük şehir için açıklayıcı istatistiklere hesaplanmıştır(Tablo 3.1). Sırasıyla en küçük, en büyük, ortalama ve standart sapma değerleri tabloda verilmiştir. Tüm şehirlerin 1995-2015 yılları arasındaki toplam tescil sayısı gösterilmiştir(Tablo 3.2).*
 
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a3.jpg)
 
 *Yıllara göre Toplam tescil sayısının nasıl bir değişime uğradığı histogram grafiği ile incelenmiştir. *
 
