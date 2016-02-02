@@ -38,7 +38,7 @@ DOKUZ EYLÜL ÜNİVERSİTESİ FEN FAKÜLTESİ İSTATİSTİK BÖLÜMÜ
 <a href="https://twitter.com/olmezayca" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
 </p>
 
-##iLKAY BİSREN
+##İLKAY BİSREN
 DOKUZ EYLÜL ÜNİVERSİTESİ FEN FAKÜLTESİ İSTATİSTİK BÖLÜMÜ
 
 
