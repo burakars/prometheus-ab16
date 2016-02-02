@@ -16,7 +16,7 @@ title: Proje
 
 ### 2.Histogram
 
-
+![alt text](a2/img.jpeg)
 
 #### 3. Açıklayıcı İstatistikler
 *Beş büyük şehir için açıklayıcı istatistiklere hesaplanmıştır(Tablo 3.1). Sırasıyla en küçük, en büyük, ortalama ve standart sapma değerleri tabloda verilmiştir. Tüm şehirlerin 1995-2015 yılları arasındaki toplam tescil sayısı gösterilmiştir(Tablo 3.2).*
