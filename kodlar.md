@@ -26,4 +26,6 @@ lojistikcv<- train(price~lotsize+stories,  data=evveri,
                  trControl = ctrl)
 ```
 
-[TPE](http://www.tpe.gov.tr/TurkPatentEnstitusu/statistics/)				 
+[TPE](http://www.tpe.gov.tr/TurkPatentEnstitusu/statistics/)		
+
+![AB2016](AB2016/img.png)		 
