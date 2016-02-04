@@ -11,14 +11,14 @@ title: Proje
 ## 1.Giriş
 
 
-         Türk Patent Enstitüsü’nden alınan veriler ile açıklayıcı istatistikler ve regresyon analizi yapılmıştır. *
+         *Türk Patent Enstitüsü’nden alınan veriler ile açıklayıcı istatistikler ve regresyon analizi yapılmıştır. *
 [TPE](http://www.tpe.gov.tr/TurkPatentEnstitusu/statistics/)
 *adresinden, Marka Tescillerinin Yıllara Göre Dağılımı isimli veri seti indirildi.Markalar ismiyle Excel Çalışma Kitabı formatında Yıllar değişkeni, şehir isimleri ve yıllara göre bulunan Toplam değerler olarak düzeltildi, kaydedildi ve aşağıdaki kodlar kullanılarak R-Studio’ ya aktarıldı. 
 
 ### 2.Histogram
 
 
-Yıllara göre Toplam tescil sayısının nasıl bir değişime uğradığı histogram grafiği ile incelenmiştir. 
+*Yıllara göre Toplam tescil sayısının nasıl bir değişime uğradığı histogram grafiği ile incelenmiştir.* 
 ![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a2.jpg)
 
 
