@@ -10,15 +10,21 @@ title: Proje
 
 ## 1.Giriş
 
-*Türk Patent Enstitüsü’nden alınan veriler ile açıklayıcı istatistikler ve regresyon analizi yapılmıştır. *
+
+         Türk Patent Enstitüsü’nden alınan veriler ile açıklayıcı istatistikler ve regresyon analizi yapılmıştır. *
 [TPE](http://www.tpe.gov.tr/TurkPatentEnstitusu/statistics/)
-*adresinden, Marka Tescillerinin Yıllara Göre Dağılımı isimli veri seti indirildi.Markalar ismiyle Excel Çalışma Kitabı formatında Yıllar değişkeni, şehir isimleri ve yıllara göre bulunan Toplam değerler olarak düzeltildi, kaydedildi ve aşağıdaki kodlar kullanılarak R-Studio’ ya aktarıldı. *
+*adresinden, Marka Tescillerinin Yıllara Göre Dağılımı isimli veri seti indirildi.Markalar ismiyle Excel Çalışma Kitabı formatında Yıllar değişkeni, şehir isimleri ve yıllara göre bulunan Toplam değerler olarak düzeltildi, kaydedildi ve aşağıdaki kodlar kullanılarak R-Studio’ ya aktarıldı. 
 
 ### 2.Histogram
-*Yıllara göre Toplam tescil sayısının nasıl bir değişime uğradığı histogram grafiği ile incelenmiştir. *
+
+
+Yıllara göre Toplam tescil sayısının nasıl bir değişime uğradığı histogram grafiği ile incelenmiştir. 
 ![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a2.jpg)
 
+
 #### 3. Açıklayıcı İstatistikler
+
+
 *Beş büyük şehir için açıklayıcı istatistiklere hesaplanmıştır(Tablo 3.1). Sırasıyla en küçük, en büyük, ortalama ve standart sapma değerleri tabloda verilmiştir. Tüm şehirlerin 1995-2015 yılları arasındaki toplam tescil sayısı gösterilmiştir(Tablo 3.2).*
 
 ![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a3.jpg)
@@ -84,17 +90,18 @@ title: Proje
 *
 
 
-
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a8.jpg)
 
 *Çıktıda sırasıyla β_0, Yıllar değişkenin katsayısı ve İstanbul değişkenin katsayısı görülmektedir.*
-![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a8.jpg)
+
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a9.jpg)
+
 *ANOVA daki p-value değeri 0.05’ten küçük olması nedeniyle bu kurulan denklemin de anlamlı olduğu söylenir. Yıllar ve İSTANBUL bağımsız değişkenleri model için anlamlıdır.*
 
 
 
-![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/a9.jpg)
 
-
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/aa.jpg)
 
 
 
