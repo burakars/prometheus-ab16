@@ -102,7 +102,7 @@ title: Proje
 
 
 
-![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/aa.png)
+![Tablo 2.1](http://burakars.github.io/prometheus-ab16/gorseller/aa.jpg)
 
 
 
